@@ -9,7 +9,7 @@ PHP CRUD operations involve Create, Read, Update, and Delete functionalities for
 2. Web browser (Chrome, Edge, etc.).
 
 ### Installation Steps
-1. Download the source code from the GitHub repository [php-crud-sederhana](https://github.com/sarephidayat/crud-sederhana-php) as a ZIP file.
+1. Download the source code from the GitHub repository [crud-sederhana-php](https://github.com/sarephidayat/crud-sederhana-php) as a ZIP file.
 2. Open XAMPP and start Apache and MySQL services. Click on "Admin" next to MySQL to open phpMyAdmin.
 3. Import the `sekolah.sql` file into phpMyAdmin.
 4. Open your web browser and enter `localhost/sekolah`. Choose `sekolah.php` to start using the application.
